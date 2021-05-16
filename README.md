@@ -1,4 +1,4 @@
-# Ensemble-Techniques
+# Parkinson-s-Disease-Prediction using Ensemble-Techniques
 
 Project: Diagnosing Parkinson's disease using Random Forests
 
